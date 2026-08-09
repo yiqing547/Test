@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4268135782
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd4b488d92f39148e64c9eb14bbd156e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bd4b488d92f39148e64c9eb14bbd156e
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Sprites/StagesThumbnails/stage_5.png
+- Assets/GameAssets/Sprites/StagesThumbnails/stage_8.png
+- Assets/GameAssets/Sprites/StagesThumbnails/stage_4.png
+- Assets/GameAssets/Sprites/StagesThumbnails/stage_1.png
+- Assets/GameAssets/Sprites/StagesThumbnails/stage_7.png
+- Assets/GameAssets/Sprites/StagesThumbnails/stage_2.png
+- Assets/GameAssets/Sprites/StagesThumbnails/stage_3.png
+- Assets/GameAssets/Sprites/StagesThumbnails/stage_9.png
+- Assets/GameAssets/Sprites/StagesThumbnails/stage_10.png
+- Assets/GameAssets/Sprites/StagesThumbnails/stage_6.png
+Dependencies: []

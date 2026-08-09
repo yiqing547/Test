@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2725546364
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: acad34067f565ddb474b5a39e384eb44
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: acad34067f565ddb474b5a39e384eb44
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Texture/BG.jpg
+Dependencies: []

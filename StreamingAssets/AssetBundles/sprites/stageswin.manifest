@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 413623761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b56e7996aa2b97a42cd06f4e0e524994
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b56e7996aa2b97a42cd06f4e0e524994
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Sprites/StagesWin/stage_bg.png
+- Assets/GameAssets/Sprites/StagesWin/page_bg.png
+- Assets/GameAssets/Sprites/StagesWin/unpass_bg.png
+- Assets/GameAssets/Sprites/StagesWin/btn_next.png
+- Assets/GameAssets/Sprites/StagesWin/bottom.png
+- Assets/GameAssets/Sprites/StagesWin/pass_bg.png
+Dependencies: []

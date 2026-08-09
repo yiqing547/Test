@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 593601218
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f501405636ada0f716acd243076aab2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6f501405636ada0f716acd243076aab2
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Sprites/SeriesThumbnails/thumbnail_6.png
+- Assets/GameAssets/Sprites/SeriesThumbnails/thumbnail_2.png
+- Assets/GameAssets/Sprites/SeriesThumbnails/thumbnail_4.png
+- Assets/GameAssets/Sprites/SeriesThumbnails/thumbnail_1.png
+- Assets/GameAssets/Sprites/SeriesThumbnails/thumbnail_5.png
+- Assets/GameAssets/Sprites/SeriesThumbnails/thumbnail_3.png
+Dependencies: []

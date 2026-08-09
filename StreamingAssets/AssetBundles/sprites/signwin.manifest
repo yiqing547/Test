@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2355838497
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f2bee6e28270aedb56f1680f3e25057
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7f2bee6e28270aedb56f1680f3e25057
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Sprites/SIgnWin/item_1003.png
+- Assets/GameAssets/Sprites/SIgnWin/img_reward.png
+- Assets/GameAssets/Sprites/SIgnWin/img_day_bg2.png
+- Assets/GameAssets/Sprites/SIgnWin/img_day_bg.png
+- Assets/GameAssets/Sprites/SIgnWin/item_1001.png
+- Assets/GameAssets/Sprites/SIgnWin/card.png
+- Assets/GameAssets/Sprites/SIgnWin/item_1002.png
+Dependencies: []

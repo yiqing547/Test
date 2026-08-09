@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3653264847
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aac42382f04be6ecd5638f39962c2f39
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: aac42382f04be6ecd5638f39962c2f39
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Sprites/Base/icon_key.png
+- Assets/GameAssets/Sprites/Base/btn_green.png
+- Assets/GameAssets/Sprites/Base/img_ad_2.png
+- Assets/GameAssets/Sprites/Base/btn_yellow.png
+- Assets/GameAssets/Sprites/Base/btn_red.png
+- Assets/GameAssets/Sprites/Base/icon_reward.png
+- Assets/GameAssets/Sprites/Base/btn_close.png
+- Assets/GameAssets/Sprites/Base/img_title.png
+- Assets/GameAssets/Sprites/Base/img_ad_3.png
+- Assets/GameAssets/Sprites/Base/icon_share.png
+- Assets/GameAssets/Sprites/Base/icon_tip.png
+- Assets/GameAssets/Sprites/Base/img_prop_bg.png
+- Assets/GameAssets/Sprites/Base/img_ad_1.png
+- Assets/GameAssets/Sprites/Base/img_bg.png
+- Assets/GameAssets/Sprites/Base/btn_back.png
+- Assets/GameAssets/Sprites/Base/icon_time.png
+- Assets/GameAssets/Sprites/Base/icon_star.png
+Dependencies: []
