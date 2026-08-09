@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 481992858
+CRC: 1753441843
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5521d40916779041b707fa990b27480d
+    Hash: f1815d5d730e1cd78f13292db4537d6b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 71db5047850528e9ff46e39b139e7821
+    Hash: 0b5fdcc9ba8990a4c663c6408f71777c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5521d40916779041b707fa990b27480d
+    Hash: f1815d5d730e1cd78f13292db4537d6b
 HashAppended: 1
 ClassTypes:
 - Class: 1
@@ -19,33 +19,33 @@ ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 57eb7c15612322c4b929a325ad4bc16a, type: 3}
+  Script: {fileID: 11500000, guid: a46ec547e430449228f82fe93d79c255, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3685a2fe885494b24b07b0962929dfaa, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 17e9881a7bce8124a8f855b96a8ca11a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57eb7c15612322c4b929a325ad4bc16a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7cd21add8fe340c3a52cc8f7647e5b0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ec0432517adfcb84bb6163d7a44ab8c1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cd6a65b012eff4e968f8fc2cfc4ae557, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: a7cd21add8fe340c3a52cc8f7647e5b0, type: 3}
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 3685a2fe885494b24b07b0962929dfaa, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: a46ec547e430449228f82fe93d79c255, type: 3}
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
@@ -85,7 +85,7 @@ Assets:
 - Assets/GameAssets/Prefabs/StagesWin/StagesWin.prefab
 - Assets/GameAssets/Prefabs/StagesWin/Stages_UnlockWin.prefab
 Dependencies:
-- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_34e2d5fc0514e475d4a7daacd4ede411
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_e5c476a481b48bf299f60a95d89ad829
 - /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/base_aac42382f04be6ecd5638f39962c2f39
 - /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/stageswin_b56e7996aa2b97a42cd06f4e0e524994
 - /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/texture/bg_acad34067f565ddb474b5a39e384eb44

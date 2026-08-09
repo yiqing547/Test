@@ -1,18 +1,18 @@
 ManifestFileVersion: 0
-CRC: 1910694407
+CRC: 385463864
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: video/video_1_e6d19ce5433adc579155bee4329645c6
+      Name: video/video_1_65399762d6baf83a7dd2f76a147eef9b
       Dependencies: {}
     Info_1:
-      Name: video/video_2_cdd971fd26593c56f84d8abd9b256395
+      Name: video/video_2_a041c36a8f3fff1804051ab71151c601
       Dependencies: {}
     Info_2:
-      Name: video/video_3_6e4d64f7f484e6ef926c917d7c4e5557
+      Name: video/video_3_65470ba4d5ef40a442a390ad64b99012
       Dependencies: {}
     Info_3:
-      Name: video/video_4_74aa8f9cb25ad56f7fad92f8210c99c6
+      Name: video/video_4_40d787a076b3b9222ed2d9a99f047e46
       Dependencies: {}
     Info_4:
       Name: texture/bg_acad34067f565ddb474b5a39e384eb44
@@ -51,12 +51,13 @@ AssetBundleManifest:
       Name: sprites/videowin_d6014bf52fafa879e0d95b88f5ada215
       Dependencies: {}
     Info_16:
-      Name: prefabs/serieswin_2686a3ec99eee5a52a23733bb41bf785
+      Name: prefabs/serieswin_1854195b08cb6ff717c1ecd59059f412
       Dependencies:
         Dependency_0: texture/bg_acad34067f565ddb474b5a39e384eb44
         Dependency_1: font_e5c476a481b48bf299f60a95d89ad829
         Dependency_2: sprites/base_aac42382f04be6ecd5638f39962c2f39
-        Dependency_3: sprites/serieswin_c7dbc4e29cc7b3148a6cf7fe98972a6b
+        Dependency_3: sprites/seriesthumbnails_6f501405636ada0f716acd243076aab2
+        Dependency_4: sprites/serieswin_c7dbc4e29cc7b3148a6cf7fe98972a6b
     Info_17:
       Name: prefabs/signwin_f50e3115c474b6ddb1fca2b2934f4c7a
       Dependencies:
@@ -64,7 +65,7 @@ AssetBundleManifest:
         Dependency_1: sprites/base_aac42382f04be6ecd5638f39962c2f39
         Dependency_2: sprites/signwin_7f2bee6e28270aedb56f1680f3e25057
     Info_18:
-      Name: prefabs/stageswin_5521d40916779041b707fa990b27480d
+      Name: prefabs/stageswin_f1815d5d730e1cd78f13292db4537d6b
       Dependencies:
         Dependency_0: texture/bg_acad34067f565ddb474b5a39e384eb44
         Dependency_1: font_e5c476a481b48bf299f60a95d89ad829
@@ -74,7 +75,7 @@ AssetBundleManifest:
       Name: prefabs/startwin_f65bd05b195a955d5eb2ce65c6dc3f05
       Dependencies: {}
     Info_20:
-      Name: prefabs/videowin_1b643c19ad1ab15ecb080b09ac45cef2
+      Name: prefabs/videowin_c29e6e9ed46b5a84875293af0b987d1f
       Dependencies:
         Dependency_0: texture/bg_acad34067f565ddb474b5a39e384eb44
         Dependency_1: font_e5c476a481b48bf299f60a95d89ad829
