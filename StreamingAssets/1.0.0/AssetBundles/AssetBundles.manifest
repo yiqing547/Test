@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1014278982
+CRC: 1791912840
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -33,46 +33,49 @@ AssetBundleManifest:
       Name: sprites/serieswin_be8b9c29f1fd6182ff20cf55a261e29a
       Dependencies: {}
     Info_10:
-      Name: sprites/stageswin_47daa1ca90ef193ce076d36d1aa9eae0
+      Name: sprites/stagesthumbnails_ce657f0e2d118bc636caacdf59ddddb2
       Dependencies: {}
     Info_11:
-      Name: sprites/videowin_01f07f75c7780966c81a2837d84d9c90
+      Name: sprites/stageswin_47daa1ca90ef193ce076d36d1aa9eae0
       Dependencies: {}
     Info_12:
+      Name: sprites/videowin_01f07f75c7780966c81a2837d84d9c90
+      Dependencies: {}
+    Info_13:
       Name: prefabs/base_291386b64751d3a8304e0346f952cb1c
       Dependencies:
         Dependency_0: font_d83e6bf4ff24ed3f5187afb60c675c8d
         Dependency_1: sprites/base_1b37a52807988b4f5238f1393400a16d
-    Info_13:
+    Info_14:
       Name: prefabs/serieswin_dcb97c2f395fa4987fcd0b7caef365d9
       Dependencies:
         Dependency_0: texture/bg_162addb72b066a824c7114ae8ac0ac48
         Dependency_1: font_d83e6bf4ff24ed3f5187afb60c675c8d
         Dependency_2: sprites/base_1b37a52807988b4f5238f1393400a16d
         Dependency_3: sprites/serieswin_be8b9c29f1fd6182ff20cf55a261e29a
-    Info_14:
+    Info_15:
       Name: prefabs/signwin_74c97e221711fb18320fb5842b49c514
       Dependencies:
         Dependency_0: font_d83e6bf4ff24ed3f5187afb60c675c8d
         Dependency_1: sprites/base_1b37a52807988b4f5238f1393400a16d
         Dependency_2: sprites/signwin_07f4e62a32a980189a64fd27bfc05030
-    Info_15:
+    Info_16:
       Name: prefabs/stageswin_97c5afa7752a228f85268acdb49d09d8
       Dependencies:
         Dependency_0: texture/bg_162addb72b066a824c7114ae8ac0ac48
         Dependency_1: font_d83e6bf4ff24ed3f5187afb60c675c8d
         Dependency_2: sprites/base_1b37a52807988b4f5238f1393400a16d
         Dependency_3: sprites/stageswin_47daa1ca90ef193ce076d36d1aa9eae0
-    Info_16:
+    Info_17:
       Name: prefabs/startwin_85195080b4471076fbfbe85e921b85c1
       Dependencies:
         Dependency_0: sprites/base_1b37a52807988b4f5238f1393400a16d
-    Info_17:
+    Info_18:
       Name: prefabs/tipswin_52225f1552f2a868a84f18a835859ae0
       Dependencies:
         Dependency_0: font_d83e6bf4ff24ed3f5187afb60c675c8d
         Dependency_1: sprites/base_1b37a52807988b4f5238f1393400a16d
-    Info_18:
+    Info_19:
       Name: prefabs/videowin_37b14df1e43a1b768b5932f40fa631a4
       Dependencies:
         Dependency_0: texture/bg_162addb72b066a824c7114ae8ac0ac48
