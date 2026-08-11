@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1946995556
+CRC: 1989563018
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ae5bfa88cdda399b5720b58caff93e68
+    Hash: d1bdf326ef0451ec110d686a901bbd38
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d8df09e698f722ada1caa03d3413830
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ae5bfa88cdda399b5720b58caff93e68
+    Hash: d1bdf326ef0451ec110d686a901bbd38
 HashAppended: 1
 ClassTypes:
 - Class: 28
@@ -18,5 +18,9 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/GameAssets/Texture/bg2.png
+- Assets/GameAssets/Sprites/Item/icon_1002.png
+- Assets/GameAssets/Sprites/Item/item_1003.png
+- Assets/GameAssets/Sprites/Item/item_1001.png
+- Assets/GameAssets/Sprites/Item/icon_1001.png
+- Assets/GameAssets/Sprites/Item/item_1002.png
 Dependencies: []

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3300117077
+CRC: 1474806598
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f65bd05b195a955d5eb2ce65c6dc3f05
+    Hash: 172f9f129f764763405632da0db59bef
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ff80dbc545b3189750d693eae116c205
+    Hash: 6159c21393fc9ab0f7e194337110d5d9
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: f65bd05b195a955d5eb2ce65c6dc3f05
+    Hash: 172f9f129f764763405632da0db59bef
 HashAppended: 1
 ClassTypes:
 - Class: 1
@@ -17,15 +17,15 @@ ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 57eb7c15612322c4b929a325ad4bc16a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3b8f8cf19cc264717bfb8bfd7e7ef37e, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
@@ -55,4 +55,5 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/GameAssets/Prefabs/StartWin/StartWin.prefab
-Dependencies: []
+Dependencies:
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/base_1b37a52807988b4f5238f1393400a16d
