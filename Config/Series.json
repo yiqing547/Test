@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "脑洞热梗",
+    "stars": 2,
+    "tag": 1,
+    "adNum": 0,
+    "thumbnail": "thumbnail_1"
+  },
+  {
+    "id": 2,
+    "title": "怀旧短剧",
+    "stars": 1,
+    "tag": 2,
+    "adNum": 1,
+    "thumbnail": "thumbnail_2"
+  },
+  {
+    "id": 3,
+    "title": "主播集合",
+    "stars": 1,
+    "tag": 1,
+    "adNum": 3,
+    "thumbnail": "thumbnail_3"
+  },
+  {
+    "id": 4,
+    "title": "短剧互动",
+    "stars": 4,
+    "tag": 2,
+    "adNum": 2,
+    "thumbnail": "thumbnail_4"
+  },
+  {
+    "id": 5,
+    "title": "微控故事",
+    "stars": 3,
+    "tag": 3,
+    "adNum": 1,
+    "thumbnail": "thumbnail_5"
+  }
+]

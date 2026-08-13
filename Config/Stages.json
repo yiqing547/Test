@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1,
+    "title": "关卡1",
+    "des": "描述1",
+    "seriesID": 1,
+    "stageID": 1,
+    "tag": 1,
+    "thumbnail": "stage_1",
+    "story": "story_1",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "关卡2",
+    "des": "描述2",
+    "seriesID": 1,
+    "stageID": 2,
+    "tag": 2,
+    "thumbnail": "stage_1",
+    "story": "story_2",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "关卡3",
+    "des": "描述3",
+    "seriesID": 1,
+    "stageID": 3,
+    "tag": 1,
+    "thumbnail": "stage_1",
+    "story": "story_3",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "关卡4",
+    "des": "描述4",
+    "seriesID": 1,
+    "stageID": 4,
+    "tag": 2,
+    "thumbnail": "stage_1",
+    "story": "story_4",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "关卡5",
+    "des": "描述5",
+    "seriesID": 1,
+    "stageID": 5,
+    "tag": 2,
+    "thumbnail": "stage_1",
+    "story": "story_5",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "关卡6",
+    "des": "描述6",
+    "seriesID": 1,
+    "stageID": 6,
+    "tag": 2,
+    "thumbnail": "stage_1",
+    "story": "story_6",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "关卡7",
+    "des": "描述7",
+    "seriesID": 1,
+    "stageID": 7,
+    "tag": 3,
+    "thumbnail": "stage_1",
+    "story": "story_7",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "关卡8",
+    "des": "描述8",
+    "seriesID": 1,
+    "stageID": 8,
+    "tag": 1,
+    "thumbnail": "stage_2",
+    "story": "story_8",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "关卡9",
+    "des": "描述9",
+    "seriesID": 1,
+    "stageID": 9,
+    "tag": 1,
+    "thumbnail": "stage_2",
+    "story": "story_9",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "关卡10",
+    "des": "描述10",
+    "seriesID": 1,
+    "stageID": 10,
+    "tag": 3,
+    "thumbnail": "stage_2",
+    "story": "story_10",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "关卡11",
+    "des": "描述11",
+    "seriesID": 1,
+    "stageID": 11,
+    "tag": 2,
+    "thumbnail": "stage_2",
+    "story": "story_11",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "关卡12",
+    "des": "描述12",
+    "seriesID": 1,
+    "stageID": 12,
+    "tag": 1,
+    "thumbnail": "stage_2",
+    "story": "story_12",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "关卡13",
+    "des": "描述13",
+    "seriesID": 1,
+    "stageID": 13,
+    "tag": 1,
+    "thumbnail": "stage_2",
+    "story": "story_13",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "关卡14",
+    "des": "描述14",
+    "seriesID": 1,
+    "stageID": 14,
+    "tag": 2,
+    "thumbnail": "stage_2",
+    "story": "story_14",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "关卡15",
+    "des": "描述15",
+    "seriesID": 1,
+    "stageID": 15,
+    "tag": 2,
+    "thumbnail": "stage_3",
+    "story": "story_15",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "关卡16",
+    "des": "描述16",
+    "seriesID": 1,
+    "stageID": 16,
+    "tag": 3,
+    "thumbnail": "stage_3",
+    "story": "story_16",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "关卡17",
+    "des": "描述17",
+    "seriesID": 1,
+    "stageID": 17,
+    "tag": 3,
+    "thumbnail": "stage_3",
+    "story": "story_17",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "关卡18",
+    "des": "描述18",
+    "seriesID": 1,
+    "stageID": 18,
+    "tag": 1,
+    "thumbnail": "stage_3",
+    "story": "story_18",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "关卡19",
+    "des": "描述19",
+    "seriesID": 1,
+    "stageID": 19,
+    "tag": 1,
+    "thumbnail": "stage_3",
+    "story": "story_19",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "关卡20",
+    "des": "描述20",
+    "seriesID": 2,
+    "stageID": 1,
+    "tag": 1,
+    "thumbnail": "stage_3",
+    "story": "story_20",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "关卡21",
+    "des": "描述21",
+    "seriesID": 2,
+    "stageID": 2,
+    "tag": 1,
+    "thumbnail": "stage_3",
+    "story": "story_21",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "关卡22",
+    "des": "描述22",
+    "seriesID": 2,
+    "stageID": 3,
+    "tag": 1,
+    "thumbnail": "stage_4",
+    "story": "story_22",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "关卡23",
+    "des": "描述23",
+    "seriesID": 2,
+    "stageID": 4,
+    "tag": 1,
+    "thumbnail": "stage_4",
+    "story": "story_23",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "关卡24",
+    "des": "描述24",
+    "seriesID": 2,
+    "stageID": 5,
+    "tag": 1,
+    "thumbnail": "stage_4",
+    "story": "story_24",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "关卡25",
+    "des": "描述25",
+    "seriesID": 2,
+    "stageID": 6,
+    "tag": 1,
+    "thumbnail": "stage_4",
+    "story": "story_25",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "关卡26",
+    "des": "描述26",
+    "seriesID": 2,
+    "stageID": 7,
+    "tag": 2,
+    "thumbnail": "stage_4",
+    "story": "story_26",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "关卡27",
+    "des": "描述27",
+    "seriesID": 2,
+    "stageID": 8,
+    "tag": 2,
+    "thumbnail": "stage_4",
+    "story": "story_27",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "关卡28",
+    "des": "描述28",
+    "seriesID": 2,
+    "stageID": 9,
+    "tag": 2,
+    "thumbnail": "stage_4",
+    "story": "story_28",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "关卡29",
+    "des": "描述29",
+    "seriesID": 2,
+    "stageID": 10,
+    "tag": 2,
+    "thumbnail": "stage_5",
+    "story": "story_29",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "关卡30",
+    "des": "描述30",
+    "seriesID": 2,
+    "stageID": 11,
+    "tag": 2,
+    "thumbnail": "stage_5",
+    "story": "story_30",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "关卡31",
+    "des": "描述31",
+    "seriesID": 2,
+    "stageID": 12,
+    "tag": 3,
+    "thumbnail": "stage_5",
+    "story": "story_31",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "关卡32",
+    "des": "描述32",
+    "seriesID": 2,
+    "stageID": 13,
+    "tag": 3,
+    "thumbnail": "stage_5",
+    "story": "story_32",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "关卡33",
+    "des": "描述33",
+    "seriesID": 2,
+    "stageID": 14,
+    "tag": 3,
+    "thumbnail": "stage_5",
+    "story": "story_33",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "关卡34",
+    "des": "描述34",
+    "seriesID": 2,
+    "stageID": 15,
+    "tag": 3,
+    "thumbnail": "stage_5",
+    "story": "story_34",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "关卡35",
+    "des": "描述35",
+    "seriesID": 2,
+    "stageID": 16,
+    "tag": 3,
+    "thumbnail": "stage_5",
+    "story": "story_35",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "关卡36",
+    "des": "描述36",
+    "seriesID": 3,
+    "stageID": 1,
+    "tag": 3,
+    "thumbnail": "stage_6",
+    "story": "story_36",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "关卡37",
+    "des": "描述37",
+    "seriesID": 3,
+    "stageID": 2,
+    "tag": 3,
+    "thumbnail": "stage_6",
+    "story": "story_37",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "关卡38",
+    "des": "描述38",
+    "seriesID": 3,
+    "stageID": 3,
+    "tag": 3,
+    "thumbnail": "stage_6",
+    "story": "story_38",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "关卡39",
+    "des": "描述39",
+    "seriesID": 3,
+    "stageID": 4,
+    "tag": 1,
+    "thumbnail": "stage_6",
+    "story": "story_39",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "关卡40",
+    "des": "描述40",
+    "seriesID": 3,
+    "stageID": 5,
+    "tag": 1,
+    "thumbnail": "stage_6",
+    "story": "story_40",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "关卡41",
+    "des": "描述41",
+    "seriesID": 3,
+    "stageID": 6,
+    "tag": 1,
+    "thumbnail": "stage_6",
+    "story": "story_41",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "关卡42",
+    "des": "描述42",
+    "seriesID": 3,
+    "stageID": 7,
+    "tag": 1,
+    "thumbnail": "stage_6",
+    "story": "story_42",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "关卡43",
+    "des": "描述43",
+    "seriesID": 3,
+    "stageID": 8,
+    "tag": 1,
+    "thumbnail": "stage_7",
+    "story": "story_43",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "关卡44",
+    "des": "描述44",
+    "seriesID": 3,
+    "stageID": 9,
+    "tag": 1,
+    "thumbnail": "stage_7",
+    "story": "story_44",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "关卡45",
+    "des": "描述45",
+    "seriesID": 3,
+    "stageID": 10,
+    "tag": 1,
+    "thumbnail": "stage_7",
+    "story": "story_45",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "关卡46",
+    "des": "描述46",
+    "seriesID": 3,
+    "stageID": 11,
+    "tag": 2,
+    "thumbnail": "stage_7",
+    "story": "story_46",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "关卡47",
+    "des": "描述47",
+    "seriesID": 4,
+    "stageID": 1,
+    "tag": 2,
+    "thumbnail": "stage_7",
+    "story": "story_47",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "关卡48",
+    "des": "描述48",
+    "seriesID": 4,
+    "stageID": 2,
+    "tag": 2,
+    "thumbnail": "stage_7",
+    "story": "story_48",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "关卡49",
+    "des": "描述49",
+    "seriesID": 4,
+    "stageID": 3,
+    "tag": 2,
+    "thumbnail": "stage_7",
+    "story": "story_49",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "关卡50",
+    "des": "描述50",
+    "seriesID": 4,
+    "stageID": 4,
+    "tag": 2,
+    "thumbnail": "stage_8",
+    "story": "story_50",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "关卡51",
+    "des": "描述51",
+    "seriesID": 4,
+    "stageID": 5,
+    "tag": 2,
+    "thumbnail": "stage_8",
+    "story": "story_51",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "关卡52",
+    "des": "描述52",
+    "seriesID": 4,
+    "stageID": 6,
+    "tag": 2,
+    "thumbnail": "stage_8",
+    "story": "story_52",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "关卡53",
+    "des": "描述53",
+    "seriesID": 4,
+    "stageID": 7,
+    "tag": 2,
+    "thumbnail": "stage_8",
+    "story": "story_53",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "关卡54",
+    "des": "描述54",
+    "seriesID": 4,
+    "stageID": 8,
+    "tag": 3,
+    "thumbnail": "stage_8",
+    "story": "story_54",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "关卡55",
+    "des": "描述55",
+    "seriesID": 4,
+    "stageID": 9,
+    "tag": 3,
+    "thumbnail": "stage_8",
+    "story": "story_55",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "关卡56",
+    "des": "描述56",
+    "seriesID": 4,
+    "stageID": 10,
+    "tag": 3,
+    "thumbnail": "stage_8",
+    "story": "story_56",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "关卡57",
+    "des": "描述57",
+    "seriesID": 4,
+    "stageID": 11,
+    "tag": 1,
+    "thumbnail": "stage_9",
+    "story": "story_57",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "关卡58",
+    "des": "描述58",
+    "seriesID": 4,
+    "stageID": 12,
+    "tag": 1,
+    "thumbnail": "stage_9",
+    "story": "story_58",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "关卡59",
+    "des": "描述59",
+    "seriesID": 4,
+    "stageID": 13,
+    "tag": 2,
+    "thumbnail": "stage_9",
+    "story": "story_59",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "关卡60",
+    "des": "描述60",
+    "seriesID": 5,
+    "stageID": 1,
+    "tag": 3,
+    "thumbnail": "stage_9",
+    "story": "story_60",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "关卡61",
+    "des": "描述61",
+    "seriesID": 5,
+    "stageID": 2,
+    "tag": 2,
+    "thumbnail": "stage_9",
+    "story": "story_61",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "关卡62",
+    "des": "描述62",
+    "seriesID": 5,
+    "stageID": 3,
+    "tag": 1,
+    "thumbnail": "stage_9",
+    "story": "story_62",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "关卡63",
+    "des": "描述63",
+    "seriesID": 5,
+    "stageID": 4,
+    "tag": 1,
+    "thumbnail": "stage_9",
+    "story": "story_63",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "关卡64",
+    "des": "描述64",
+    "seriesID": 5,
+    "stageID": 5,
+    "tag": 3,
+    "thumbnail": "stage_10",
+    "story": "story_64",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "关卡65",
+    "des": "描述65",
+    "seriesID": 5,
+    "stageID": 6,
+    "tag": 1,
+    "thumbnail": "stage_10",
+    "story": "story_65",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "关卡66",
+    "des": "描述66",
+    "seriesID": 5,
+    "stageID": 7,
+    "tag": 2,
+    "thumbnail": "stage_10",
+    "story": "story_66",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "关卡67",
+    "des": "描述67",
+    "seriesID": 5,
+    "stageID": 8,
+    "tag": 3,
+    "thumbnail": "stage_10",
+    "story": "story_67",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 68,
+    "title": "关卡68",
+    "des": "描述68",
+    "seriesID": 5,
+    "stageID": 9,
+    "tag": 1,
+    "thumbnail": "stage_10",
+    "story": "story_68",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "关卡69",
+    "des": "描述69",
+    "seriesID": 5,
+    "stageID": 10,
+    "tag": 2,
+    "thumbnail": "stage_10",
+    "story": "story_69",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "关卡70",
+    "des": "描述70",
+    "seriesID": 5,
+    "stageID": 11,
+    "tag": 1,
+    "thumbnail": "stage_10",
+    "story": "story_70",
+    "order": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  }
+]
