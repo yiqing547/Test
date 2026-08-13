@@ -1,0 +1,95 @@
+ManifestFileVersion: 0
+CRC: 3964332093
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7090e93cafb65d23dac996281a39a6ac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b33b94fe13e1d0d4a5e0732574ec2256
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7090e93cafb65d23dac996281a39a6ac
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f61f5e7c6ebf84846b20291cef945dbd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7cd21add8fe340c3a52cc8f7647e5b0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17e9881a7bce8124a8f855b96a8ca11a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9449bb6a841e6491f9f7c211fe24d755, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57eb7c15612322c4b929a325ad4bc16a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a46ec547e430449228f82fe93d79c255, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3685a2fe885494b24b07b0962929dfaa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec0432517adfcb84bb6163d7a44ab8c1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd6a65b012eff4e968f8fc2cfc4ae557, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ComponentAutoBindTool/BindData
+- AssemblyName: Assembly-CSharp
+  ClassName: SuperScrollView.GridViewItemPrefabConfData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Prefabs/StagesWin/Stages_Item.prefab
+- Assets/GameAssets/Prefabs/StagesWin/Stages_Page.prefab
+- Assets/GameAssets/Prefabs/StagesWin/StagesWin.prefab
+- Assets/GameAssets/Prefabs/StagesWin/Stages_UnlockWin.prefab
+Dependencies:
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_046a8290818608db52652568827a2a9b
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/base_3a8320235002a14c2fc558424c8a6bb3
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/stageswin_47daa1ca90ef193ce076d36d1aa9eae0
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/texture/bg_162addb72b066a824c7114ae8ac0ac48
