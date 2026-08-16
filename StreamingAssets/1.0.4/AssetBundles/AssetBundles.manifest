@@ -1,0 +1,133 @@
+ManifestFileVersion: 0
+CRC: 2054896332
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sound/bgmusic_f8c476fc94bb0710b1f0b2174d556261
+      Dependencies: {}
+    Info_1:
+      Name: sound/sounds_324004bc25ffc52f19707b5d68c7fb29
+      Dependencies: {}
+    Info_2:
+      Name: texture/bg_162addb72b066a824c7114ae8ac0ac48
+      Dependencies: {}
+    Info_3:
+      Name: texture/bg2_ae5bfa88cdda399b5720b58caff93e68
+      Dependencies: {}
+    Info_4:
+      Name: font_8fc5d9ba9a955c7aa7f01d180473c0d2
+      Dependencies: {}
+    Info_5:
+      Name: config_bc2bbeeec191d337808a342b99e7dac1
+      Dependencies: {}
+    Info_6:
+      Name: sprites/adddestopwin_88e0b13934cfd08fd6ee5245eacceae2
+      Dependencies: {}
+    Info_7:
+      Name: sprites/base_3a8320235002a14c2fc558424c8a6bb3
+      Dependencies: {}
+    Info_8:
+      Name: sprites/entrywin_c2c86a38a6aa0d68ae9395e27ca8979d
+      Dependencies: {}
+    Info_9:
+      Name: sprites/flag_de29e7a0a09f133271c67801c524a31e
+      Dependencies: {}
+    Info_10:
+      Name: sprites/item_d1bdf326ef0451ec110d686a901bbd38
+      Dependencies: {}
+    Info_11:
+      Name: sprites/passwin_eac51b5e71620b364bc09b19c111b628
+      Dependencies: {}
+    Info_12:
+      Name: sprites/signwin_07f4e62a32a980189a64fd27bfc05030
+      Dependencies: {}
+    Info_13:
+      Name: sprites/seriesthumbnails_604dc470f1765903007315d1e152853a
+      Dependencies: {}
+    Info_14:
+      Name: sprites/serieswin_10d11d5de147f5b0067ff7267ad6e932
+      Dependencies: {}
+    Info_15:
+      Name: sprites/settingswin_fcc963947f31d740380ddb6238ec0601
+      Dependencies: {}
+    Info_16:
+      Name: sprites/stageswin_47daa1ca90ef193ce076d36d1aa9eae0
+      Dependencies: {}
+    Info_17:
+      Name: sprites/videowin_01f07f75c7780966c81a2837d84d9c90
+      Dependencies: {}
+    Info_18:
+      Name: prefabs/adddestopwin_946a129113738ce200912eb2c5277085
+      Dependencies:
+        Dependency_0: font_8fc5d9ba9a955c7aa7f01d180473c0d2
+        Dependency_1: sprites/adddestopwin_88e0b13934cfd08fd6ee5245eacceae2
+        Dependency_2: sprites/base_3a8320235002a14c2fc558424c8a6bb3
+    Info_19:
+      Name: prefabs/base_51dc2f191df064e40051f049676f3401
+      Dependencies:
+        Dependency_0: font_8fc5d9ba9a955c7aa7f01d180473c0d2
+        Dependency_1: sprites/base_3a8320235002a14c2fc558424c8a6bb3
+    Info_20:
+      Name: prefabs/entrywin_69e9f76c17a8722d3be3b7e47989aeed
+      Dependencies:
+        Dependency_0: font_8fc5d9ba9a955c7aa7f01d180473c0d2
+        Dependency_1: sprites/base_3a8320235002a14c2fc558424c8a6bb3
+        Dependency_2: sprites/entrywin_c2c86a38a6aa0d68ae9395e27ca8979d
+    Info_21:
+      Name: prefabs/passwin_7e6b0aea6190b440c16852fbc1a111a6
+      Dependencies:
+        Dependency_0: font_8fc5d9ba9a955c7aa7f01d180473c0d2
+        Dependency_1: sprites/base_3a8320235002a14c2fc558424c8a6bb3
+        Dependency_2: sprites/passwin_eac51b5e71620b364bc09b19c111b628
+    Info_22:
+      Name: prefabs/serieswin_d477d75c7012438b0a9c710c55c8a6ab
+      Dependencies:
+        Dependency_0: texture/bg_162addb72b066a824c7114ae8ac0ac48
+        Dependency_1: font_8fc5d9ba9a955c7aa7f01d180473c0d2
+        Dependency_2: sprites/base_3a8320235002a14c2fc558424c8a6bb3
+        Dependency_3: sprites/serieswin_10d11d5de147f5b0067ff7267ad6e932
+    Info_23:
+      Name: prefabs/settingswin_6e9cf4d9ebf3d9f6fdefa1a88b2d4b05
+      Dependencies:
+        Dependency_0: font_8fc5d9ba9a955c7aa7f01d180473c0d2
+        Dependency_1: sprites/base_3a8320235002a14c2fc558424c8a6bb3
+        Dependency_2: sprites/settingswin_fcc963947f31d740380ddb6238ec0601
+    Info_24:
+      Name: prefabs/signwin_416f42c634ff6ff2a3551ca7643508fa
+      Dependencies:
+        Dependency_0: font_8fc5d9ba9a955c7aa7f01d180473c0d2
+        Dependency_1: sprites/base_3a8320235002a14c2fc558424c8a6bb3
+        Dependency_2: sprites/signwin_07f4e62a32a980189a64fd27bfc05030
+    Info_25:
+      Name: prefabs/stageswin_ec6224abd4da9f78a0fd41f21e656375
+      Dependencies:
+        Dependency_0: texture/bg_162addb72b066a824c7114ae8ac0ac48
+        Dependency_1: font_8fc5d9ba9a955c7aa7f01d180473c0d2
+        Dependency_2: sprites/base_3a8320235002a14c2fc558424c8a6bb3
+        Dependency_3: sprites/stageswin_47daa1ca90ef193ce076d36d1aa9eae0
+    Info_26:
+      Name: prefabs/startwin_525cedd83225821160ae648993f687e5
+      Dependencies:
+        Dependency_0: font_8fc5d9ba9a955c7aa7f01d180473c0d2
+        Dependency_1: sprites/base_3a8320235002a14c2fc558424c8a6bb3
+    Info_27:
+      Name: prefabs/tipswin_ed3ef1922fbf5afc48b34d6f94c09ac6
+      Dependencies:
+        Dependency_0: font_8fc5d9ba9a955c7aa7f01d180473c0d2
+        Dependency_1: sprites/base_3a8320235002a14c2fc558424c8a6bb3
+    Info_28:
+      Name: prefabs/toastwin_3ba49497c08f0f498cb58c0f61b1cf5e
+      Dependencies:
+        Dependency_0: font_8fc5d9ba9a955c7aa7f01d180473c0d2
+    Info_29:
+      Name: prefabs/trailwin_46deddf3c2a8d93ff3fa098014ff15c0
+      Dependencies:
+        Dependency_0: font_8fc5d9ba9a955c7aa7f01d180473c0d2
+        Dependency_1: sprites/base_3a8320235002a14c2fc558424c8a6bb3
+    Info_30:
+      Name: prefabs/videowin_264db3c2ee869ef0e4799343ec447380
+      Dependencies:
+        Dependency_0: texture/bg_162addb72b066a824c7114ae8ac0ac48
+        Dependency_1: font_8fc5d9ba9a955c7aa7f01d180473c0d2
+        Dependency_2: sprites/base_3a8320235002a14c2fc558424c8a6bb3
+        Dependency_3: sprites/videowin_01f07f75c7780966c81a2837d84d9c90
