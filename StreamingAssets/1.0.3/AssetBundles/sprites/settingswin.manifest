@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2728344805
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fcc963947f31d740380ddb6238ec0601
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fcc963947f31d740380ddb6238ec0601
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Sprites/SettingsWin/switch_on.png
+- Assets/GameAssets/Sprites/SettingsWin/icon_sound.png
+- Assets/GameAssets/Sprites/SettingsWin/item_bg.png
+- Assets/GameAssets/Sprites/SettingsWin/icon_shake.png
+- Assets/GameAssets/Sprites/SettingsWin/switch_off.png
+- Assets/GameAssets/Sprites/SettingsWin/icon_music.png
+Dependencies: []

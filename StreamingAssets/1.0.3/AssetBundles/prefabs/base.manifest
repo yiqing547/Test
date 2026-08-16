@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 4187965911
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1865e00552718794f33a51b13db22cee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eccde3fcb80d94e1458772bf1a45c5a1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1865e00552718794f33a51b13db22cee
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9449bb6a841e6491f9f7c211fe24d755, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57eb7c15612322c4b929a325ad4bc16a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ComponentAutoBindTool/BindData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/GameAssets/Prefabs/Base/Base_ItemType.prefab
+Dependencies:
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_01310ab840db020575d571a56a2ea9d5
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/base_3a8320235002a14c2fc558424c8a6bb3
