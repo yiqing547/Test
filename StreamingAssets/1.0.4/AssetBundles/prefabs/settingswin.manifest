@@ -6,7 +6,7 @@ Hashes:
     Hash: 6e9cf4d9ebf3d9f6fdefa1a88b2d4b05
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d66691968aa76a5fc17a6566077bcbee
+    Hash: aa1db6aaf850882dc7f4992ac398b26f
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: 6e9cf4d9ebf3d9f6fdefa1a88b2d4b05
@@ -17,9 +17,7 @@ ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  Script: {fileID: 11500000, guid: 0bffe905ea34545158f5e23daceb001f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
@@ -27,7 +25,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 57eb7c15612322c4b929a325ad4bc16a, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 0bffe905ea34545158f5e23daceb001f, type: 3}
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
@@ -58,6 +58,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/GameAssets/Prefabs/SettingsWin/SettingsWin.prefab
 Dependencies:
-- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_8fc5d9ba9a955c7aa7f01d180473c0d2
-- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/base_3a8320235002a14c2fc558424c8a6bb3
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_5344016f68b349b9205faec26da75adf
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/base_271fb89d0c95143ba38e23b4391859b3
 - /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/settingswin_fcc963947f31d740380ddb6238ec0601

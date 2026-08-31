@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3714339493
+CRC: 206531791
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 525cedd83225821160ae648993f687e5
+    Hash: 49807bfa75d7c7758c97c240e033c46c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 43531110e3a9845a5a7adeb1b193a9d5
+    Hash: f4b1c73f5939272cd9a8dcff24ab6c26
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 525cedd83225821160ae648993f687e5
+    Hash: 49807bfa75d7c7758c97c240e033c46c
 HashAppended: 1
 ClassTypes:
 - Class: 1
@@ -19,10 +19,6 @@ ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -30,6 +26,10 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 57eb7c15612322c4b929a325ad4bc16a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3b8f8cf19cc264717bfb8bfd7e7ef37e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
@@ -60,5 +60,5 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/GameAssets/Prefabs/StartWin/StartWin.prefab
 Dependencies:
-- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_8fc5d9ba9a955c7aa7f01d180473c0d2
-- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/base_3a8320235002a14c2fc558424c8a6bb3
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_5344016f68b349b9205faec26da75adf
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/base_271fb89d0c95143ba38e23b4391859b3

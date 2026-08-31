@@ -6,7 +6,7 @@ Hashes:
     Hash: 51dc2f191df064e40051f049676f3401
   TypeTreeHash:
     serializedVersion: 2
-    Hash: eccde3fcb80d94e1458772bf1a45c5a1
+    Hash: a337efd4f752b31b0ca66f0bb0820c15
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: 51dc2f191df064e40051f049676f3401
@@ -17,15 +17,15 @@ ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9449bb6a841e6491f9f7c211fe24d755, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 57eb7c15612322c4b929a325ad4bc16a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
@@ -46,5 +46,5 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/GameAssets/Prefabs/Base/Base_ItemType.prefab
 Dependencies:
-- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_8fc5d9ba9a955c7aa7f01d180473c0d2
-- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/base_3a8320235002a14c2fc558424c8a6bb3
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_5344016f68b349b9205faec26da75adf
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/base_271fb89d0c95143ba38e23b4391859b3

@@ -6,7 +6,7 @@ Hashes:
     Hash: 946a129113738ce200912eb2c5277085
   TypeTreeHash:
     serializedVersion: 2
-    Hash: cd452326a7b1b9b9452b4928bd7b6a0a
+    Hash: d7124c15e77088d721a6dde9e769d7b4
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: 946a129113738ce200912eb2c5277085
@@ -17,17 +17,17 @@ ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 57eb7c15612322c4b929a325ad4bc16a, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: be758dafcb83f45d8be588e54264ab49, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
@@ -58,6 +58,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/GameAssets/Prefabs/AddDestopWin/AddDestopWin.prefab
 Dependencies:
-- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_8fc5d9ba9a955c7aa7f01d180473c0d2
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_5344016f68b349b9205faec26da75adf
 - /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/adddestopwin_88e0b13934cfd08fd6ee5245eacceae2
-- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/base_3a8320235002a14c2fc558424c8a6bb3
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/base_271fb89d0c95143ba38e23b4391859b3

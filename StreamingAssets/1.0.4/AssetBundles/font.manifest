@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3857241203
+CRC: 274631070
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8fc5d9ba9a955c7aa7f01d180473c0d2
+    Hash: 5344016f68b349b9205faec26da75adf
   TypeTreeHash:
     serializedVersion: 2
     Hash: 883544743a38c9822709974f4036d31b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8fc5d9ba9a955c7aa7f01d180473c0d2
+    Hash: 5344016f68b349b9205faec26da75adf
 HashAppended: 1
 ClassTypes:
 - Class: 21
@@ -47,5 +47,6 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.TextCore.GlyphRect
 Assets:
 - Assets/GameAssets/Font/SourceHanSerifCN-Regular SDF.asset
+- Assets/GameAssets/Font/SourceHanSerifCN-Regular-000000.mat
 - Assets/GameAssets/Font/SourceHanSerifCN-Regular.ttf
 Dependencies: []

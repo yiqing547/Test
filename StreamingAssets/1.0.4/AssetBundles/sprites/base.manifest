@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 544111403
+CRC: 3779358223
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3a8320235002a14c2fc558424c8a6bb3
+    Hash: 271fb89d0c95143ba38e23b4391859b3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 033fafe2c9f6c610c3a734393882fd4c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3a8320235002a14c2fc558424c8a6bb3
+    Hash: 271fb89d0c95143ba38e23b4391859b3
 HashAppended: 1
 ClassTypes:
 - Class: 28
@@ -42,7 +42,7 @@ Assets:
 - Assets/GameAssets/Sprites/Base/img_ad_1.png
 - Assets/GameAssets/Sprites/Base/img_bg.png
 - Assets/GameAssets/Sprites/Base/btn_back.png
-- Assets/GameAssets/Sprites/Base/btn_start.png
+- Assets/GameAssets/Sprites/Base/Btn_Start.png
 - Assets/GameAssets/Sprites/Base/icon_time.png
 - Assets/GameAssets/Sprites/Base/icon_star.png
 Dependencies: []

@@ -6,7 +6,7 @@ Hashes:
     Hash: 3ba49497c08f0f498cb58c0f61b1cf5e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 294b299f4a49fc832480fdc2f9244443
+    Hash: 985a2a2ed17d6132ec0d77e798a57062
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: 3ba49497c08f0f498cb58c0f61b1cf5e
@@ -17,7 +17,7 @@ ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  Script: {fileID: 11500000, guid: 00475d0186fe7491abd24c6788dc45f5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
 - Class: 114
@@ -25,9 +25,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 00475d0186fe7491abd24c6788dc45f5, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 57eb7c15612322c4b929a325ad4bc16a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 222
@@ -49,4 +49,4 @@ Assets:
 - Assets/GameAssets/Prefabs/ToastWin/ToastWin.prefab
 - Assets/GameAssets/Prefabs/ToastWin/Toast_Item.prefab
 Dependencies:
-- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_8fc5d9ba9a955c7aa7f01d180473c0d2
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_5344016f68b349b9205faec26da75adf

@@ -3,13 +3,13 @@ CRC: 4174696964
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 10d11d5de147f5b0067ff7267ad6e932
+    Hash: be8b9c29f1fd6182ff20cf55a261e29a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 033fafe2c9f6c610c3a734393882fd4c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 10d11d5de147f5b0067ff7267ad6e932
+    Hash: be8b9c29f1fd6182ff20cf55a261e29a
 HashAppended: 1
 ClassTypes:
 - Class: 28
@@ -20,7 +20,7 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/GameAssets/Sprites/SeriesWin/SeriesTitle.png
-- Assets/GameAssets/Sprites/SeriesWin/Btn_Enter.png
-- Assets/GameAssets/Sprites/SeriesWin/Series_form.png
+- Assets/GameAssets/Sprites/SeriesWIn/SeriesTitle.png
+- Assets/GameAssets/Sprites/SeriesWIn/Btn_Enter.png
+- Assets/GameAssets/Sprites/SeriesWIn/Series_form.png
 Dependencies: []
