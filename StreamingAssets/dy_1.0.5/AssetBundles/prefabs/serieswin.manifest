@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 3169710882
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d477d75c7012438b0a9c710c55c8a6ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 798f6fd2d52fbce1b73192fd3ca73fbd
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d477d75c7012438b0a9c710c55c8a6ab
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f61f5e7c6ebf84846b20291cef945dbd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf6c5e90c709446369b741cbdad79ebc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17e9881a7bce8124a8f855b96a8ca11a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 91ae7dccf6d544ca58498d90115548d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd9c25d4982574d80bbf9a79e2888528, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57eb7c15612322c4b929a325ad4bc16a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec0432517adfcb84bb6163d7a44ab8c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ComponentAutoBindTool/BindData
+- AssemblyName: Assembly-CSharp
+  ClassName: SuperScrollView.GridViewItemPrefabConfData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Prefabs/SeriesWin/Series_Item.prefab
+- Assets/GameAssets/Prefabs/SeriesWin/Series_Star.prefab
+- Assets/GameAssets/Prefabs/SeriesWin/SeriesWin.prefab
+Dependencies:
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_13373a0f04fe8e4bec440ff8eafd66be
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/base_271fb89d0c95143ba38e23b4391859b3
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/serieswin_be8b9c29f1fd6182ff20cf55a261e29a
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/texture/bg_162addb72b066a824c7114ae8ac0ac48

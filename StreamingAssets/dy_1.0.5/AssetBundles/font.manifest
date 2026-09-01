@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 1553816404
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 13373a0f04fe8e4bec440ff8eafd66be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 883544743a38c9822709974f4036d31b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 13373a0f04fe8e4bec440ff8eafd66be
+HashAppended: 1
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/GameAssets/Font/SourceHanSerifCN-Regular SDF.asset
+- Assets/GameAssets/Font/SourceHanSerifCN-Regular-000000.mat
+- Assets/GameAssets/Font/SourceHanSerifCN-Regular.ttf
+Dependencies: []

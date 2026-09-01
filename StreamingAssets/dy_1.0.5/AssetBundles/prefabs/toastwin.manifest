@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 811335065
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ba49497c08f0f498cb58c0f61b1cf5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 294b299f4a49fc832480fdc2f9244443
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3ba49497c08f0f498cb58c0f61b1cf5e
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 748077d4bcb4e42cbad32cead3518f7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00475d0186fe7491abd24c6788dc45f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57eb7c15612322c4b929a325ad4bc16a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ComponentAutoBindTool/BindData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/GameAssets/Prefabs/ToastWin/ToastWin.prefab
+- Assets/GameAssets/Prefabs/ToastWin/Toast_Item.prefab
+Dependencies:
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_13373a0f04fe8e4bec440ff8eafd66be

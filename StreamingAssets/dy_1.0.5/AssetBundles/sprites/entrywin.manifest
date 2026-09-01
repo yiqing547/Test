@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3930256927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b95c17c88aefbd9f67aec8e73579dc6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 033fafe2c9f6c610c3a734393882fd4c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: b95c17c88aefbd9f67aec8e73579dc6c
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Sprites/EntryWin/step_2.png
+- Assets/GameAssets/Sprites/EntryWin/img_circle.png
+- Assets/GameAssets/Sprites/EntryWin/dy_step_2.png
+- Assets/GameAssets/Sprites/EntryWin/step_1.png
+- Assets/GameAssets/Sprites/EntryWin/dy_step_1.png
+- Assets/GameAssets/Sprites/EntryWin/step_3.png
+Dependencies: []
