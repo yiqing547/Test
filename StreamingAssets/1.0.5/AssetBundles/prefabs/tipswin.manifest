@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 1974700864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed3ef1922fbf5afc48b34d6f94c09ac6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f718e78e91debb1fe1f448fbca17854
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ed3ef1922fbf5afc48b34d6f94c09ac6
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7bf66eddd7ee340d486aba484c8244d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03c073992af0a4eaa8b5f79695022bc8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57eb7c15612322c4b929a325ad4bc16a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ComponentAutoBindTool/BindData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Prefabs/TipsWin/TipWin.prefab
+- Assets/GameAssets/Prefabs/TipsWin/Tip_Item.prefab
+Dependencies:
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/font_9d250c5baa9eabaa3602d6f4b0732883
+- /Users/yiqing/GitHub/VideoGame/Assets/StreamingAssets/AssetBundles/sprites/base_271fb89d0c95143ba38e23b4391859b3
